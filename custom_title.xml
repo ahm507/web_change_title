@@ -4,7 +4,7 @@
         <!--Customize login title-->
         <template id="custom_title" name="change title" inherit_id="web.layout">
             <xpath expr="//title" position="replace">
-                <title>ALGASIM</title>
+                <title>???????</title>
             </xpath>
         </template>
 
