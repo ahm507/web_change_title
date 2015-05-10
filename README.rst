@@ -24,6 +24,7 @@ Just wait a while, and it will appear!
 
 References:
 -----------
-I used knowledge from volunteers, here I am stating URLs I benefit from in this addon
-* http://stackoverflow.com/questions/26974431/odoo-8-how-to-change-page-title
-*
+I used knowledge from volunteers, here I am stating URLs I benefit from in this addon:
+
+* http://stackoverflow.com/questions/26974431/odoo-8-how-to-change-page-title/29182681#29182681
+* https://www.odoo.com/forum/help-1/question/how-to-change-the-title-of-our-web-page-in-browser-71483
