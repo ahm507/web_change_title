@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<openerp>
+    <data>
+        <!--Customize login title-->
+        <template id="custom_title" name="change title" inherit_id="web.layout">
+            <xpath expr="//title" position="replace">
+                <title>ALGASIM</title>
+            </xpath>
+        </template>
+
+        <!--Customize pages title through static/src/js/custom_title.js
+        as it is dynamically composed-->
+        <template id="assets_backend" name="change title assets" inherit_id="web.assets_backend">
+            <xpath expr="." position="inside">
+                <script type="text/javascript" src="web_change_title/static/src/js/custom_title.js"></script>
+            </xpath>
+        </template>
+
+    </data>
+</openerp>
