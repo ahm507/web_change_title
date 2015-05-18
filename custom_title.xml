@@ -12,7 +12,7 @@
         as it is dynamically composed-->
         <template id="assets_backend" name="change title assets" inherit_id="web.assets_backend">
             <xpath expr="." position="inside">
-                <script type="text/javascript" src="web_change_title/static/src/js/custom_title.js"></script>
+                <script type="text/javascript" src="/web_change_title/static/src/js/custom_title.js"></script>
             </xpath>
         </template>
 
